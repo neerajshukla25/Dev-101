@@ -59,3 +59,6 @@ function fun(num) {
 }
 fun(20);
 //bej rhi hu wifi vo tilt sign h okk
+
+
+console.log("hello");
